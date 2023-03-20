@@ -24,7 +24,6 @@ const HELP: &str = r#"
         a, append       Enter EDIT mode and append when the ESC key is struck
         h, help         Print this message
         p, print        Print the contents of the file buffer
-TODO -- p, print [s,e]  Print the contents of the file buffer from index denoted as s(tart) to e(nd) -- TODO
         q, quit         Exit the editor
 "#;
 
